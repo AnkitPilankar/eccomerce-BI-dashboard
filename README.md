@@ -1,4 +1,4 @@
-# eccomerce-BI-dashboard
+# ecommerce-sales-BI-dashboard
 created an eccomerce sales dashboard using power BI 
 
 sales dashbaord is created by using bar,column,donut,map,funnel,line chart,tooltip and condition formatting is done to highkight particular field 
